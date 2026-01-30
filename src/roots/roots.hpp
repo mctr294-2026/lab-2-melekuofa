@@ -1,5 +1,6 @@
 #include <functional>
 
+
 /* Tries to find a zero crossing in f() in the interval [a,b] with the bisection method
  * Returns true if a root is found. The crossing is stored in root.
  * Returns false if a crossing could not be found. Finding a root
